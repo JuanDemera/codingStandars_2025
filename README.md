@@ -1,0 +1,1 @@
+# codingStandars_2025
